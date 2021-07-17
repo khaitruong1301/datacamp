@@ -11,6 +11,7 @@
     "autoprefixer": "^9.8.6",
     "entities": "^2.2.0",
     "html-entities": "^2.3.2",
+    "lite-server": "^2.6.1",
     "postcss": "^7.0.35",
     "react": "^17.0.2",
     "react-ace": "^9.4.1",
